@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nilam-Kumbhar/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0771-jewels-and-stones](https://github.com/Nilam-Kumbhar/DSA-Problems/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nilam-Kumbhar/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Nilam-Kumbhar/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0771-jewels-and-stones](https://github.com/Nilam-Kumbhar/DSA-Problems/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
